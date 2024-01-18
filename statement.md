@@ -5,8 +5,13 @@ Bai tap 1
 
 ```python runnable
 print('Hello World!')
+continue
 ```
 
-# Advanced usage
+# Bai tap so 2
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
+Hay lam bai tap sau de dam bao moi thu tot nhat
+```python runnable
+class Bon:
+    a = 10
+```
