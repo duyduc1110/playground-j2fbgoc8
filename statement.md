@@ -5,7 +5,6 @@ Bai tap 1
 
 ```python runnable
 print('Hello World!')
-continue
 ```
 
 # Bai tap so 2
